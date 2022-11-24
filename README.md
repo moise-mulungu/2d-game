@@ -1,6 +1,6 @@
 # 2g-game
 
-This is a game that record a user's score, the aim is to score points by touching a blue ball and follow it as close as possible, with the help of four arrow buttons to move to the four different directions.
+This is a game that records a user's score, the aim is to score points by touching a blue ball and follow it as close as possible, with the help of four arrow buttons to move to the four different directions.
 
 # Screenshot
 <img src="image/Screenshot from 2022-11-22 19-57-32.png">
@@ -15,6 +15,7 @@ This is a game that record a user's score, the aim is to score points by touchin
 # Built With
  - JavaScript
  - HTML/CSS
+ - Canvas
 
 # Live Demo
 [link](http://127.0.0.1:5501/)
